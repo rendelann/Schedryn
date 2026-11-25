@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+data/*.json
+data/*.csv
+data/*.damaged
+data/error_log.txt
+receipts/
